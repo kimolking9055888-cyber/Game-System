@@ -1,3 +1,10 @@
+░░░░░██╗░█████╗░██╗░░░██╗░█████╗░  ░██████╗░░█████╗░███╗░░░███╗███████╗
+░░░░░██║██╔══██╗██║░░░██║██╔══██╗  ██╔════╝░██╔══██╗████╗░████║██╔════╝
+░░░░░██║███████║╚██╗░██╔╝███████║  ██║░░██╗░███████║██╔████╔██║█████╗░░
+██╗░░██║██╔══██║░╚████╔╝░██╔══██║  ██║░░╚██╗██╔══██║██║╚██╔╝██║██╔══╝░░
+╚█████╔╝██║░░██║░░╚██╔╝░░██║░░██║  ╚██████╔╝██║░░██║██║░╚═╝░██║███████╗
+░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝  ░╚═════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝╚══════╝
+
 # Level-Based Action Game
 
 A 2D action game built in Java, where the player controls a character progressing through multiple levels. Each level introduces a set of enemies that must be defeated before the player can advance to the next stage.
